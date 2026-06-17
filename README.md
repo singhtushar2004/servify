@@ -1,7 +1,7 @@
 
 # Servify — Premium Home Services Marketplace
 
-A production-grade full-stack MERN application — a home services marketplace inspired by Urban Company.
+A production-grade full-stack MERN application — a home services marketplace.
 
 ## Tech Stack
 
