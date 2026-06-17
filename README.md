@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Servify — Premium Home Services Marketplace
 
 A production-grade full-stack MERN application — a home services marketplace inspired by Urban Company.
@@ -96,3 +97,7 @@ servify/
 | PATCH | /api/providers/bookings/:id/accept | Accept booking |
 | PATCH | /api/providers/bookings/:id/reject | Reject booking |
 | PATCH | /api/providers/bookings/:id/complete | Complete booking |
+=======
+# servify
+•Servify– Home Services Marketplace Full Stack Web Application for booking and managing home services– Tech Stack: React.js, Node.js, Express.js, MongoDB, JWT, bcryptjs, Recharts, Framer Motion.
+>>>>>>> d08078c199a04a15b3ea5ccea3774e59f105733d
