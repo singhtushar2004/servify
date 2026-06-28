@@ -5,10 +5,10 @@ import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 
 const team = [
-  { name: 'Tanishq Mahajan', role: 'CEO & Co-founder', image: '/images/tanishq.jpeg', bg: 'from-indigo-600/30 to-indigo-600/5' },
-  { name: 'Tushar Singh', role: 'CTO & Co-founder', image: '/images/tushar.jpeg', bg: 'from-purple-600/30 to-purple-600/5' },
-  { name: 'Jaideep Kushwaha', role: 'Head of Operations', image: '/images/jaideep.jpeg', bg: 'from-blue-600/30 to-blue-600/5' },
-  { name: 'Nikhil Maurya', role: 'Head of Customer Success', image: '/images/nikhil.jpeg', bg: 'from-pink-600/30 to-pink-600/5' },
+  { name: 'Anjali Raj', role: 'Team', image: '/images/anjali.jpeg', bg: 'from-indigo-600/30 to-indigo-600/5' },
+  { name: 'Tushar Singh', role: 'Team', image: '/images/tushar.jpeg', bg: 'from-purple-600/30 to-purple-600/5' },
+  { name: 'Jaideep Kushwaha', role: 'Team', image: '/images/jaideep.jpeg', bg: 'from-blue-600/30 to-blue-600/5' },
+  { name: 'Nikhil Maurya', role: 'Team', image: '/images/nikhil.jpeg', bg: 'from-pink-600/30 to-pink-600/5' },
 ];
 
 const values = [
